@@ -1,0 +1,43 @@
+
+body{
+    width:100%;
+background-color: rgba(230,167,86,9);
+}
+.forms{
+margin-top: 70px;
+background-color: rgba(230,167,86,.9);
+height: 600px;
+width: 350px;
+border: 2px dashed white;
+border-radius: 50px;
+margin-bottom: 5px;
+}
+span{
+    color: red;
+}
+input{
+margin-top: 40px;
+background-color: rgba(230,167,86,.9);
+border: none;
+border-bottom: 5px solid white;
+height: 30px;
+width: 200px;
+color: brown;
+}
+
+.name_input{
+margin-top: 90px;
+}
+#btn{
+margin-top:40px;
+height: 35px;
+width: 100px;
+border: 3px dashed white;
+background-color: rgba(230,167,86,.9);
+color: brown;
+border-radius: 50px;
+}
+#btn:hover{
+background-color: white;
+
+}
