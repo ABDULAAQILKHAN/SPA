@@ -13,7 +13,11 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
+<<<<<<< HEAD
   "homepage": "https://ABDULAAQILKHAN.github.io/",
+=======
+  "homepage": "https://ABDULAAQILKHAN.github.io/SPA/",
+>>>>>>> 4afc505dbf00dbc1c669b98f1a3ba4622cb4e87f
   "scripts": {
     "predeploy": "npm run build",
     "start": "react-scripts start",
